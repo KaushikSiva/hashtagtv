@@ -1,0 +1,13 @@
+# Ignore Python cache directories and the SadTalker asset folder
+__pycache__/
+app/__pycache__/
+SadTalker/
+# Build outputs and virtualenv
+outputs/
+venv/
+# Media artifacts
+merged.mp4
+# Misc
+.DS_Store
+.env
+.python-version
